@@ -1,35 +1,35 @@
-<h1 align="center">¡Hola! 👋 Soy Rodrigo Ochoa</h1>
+<h1 align="center">Hi there! 👋 I'm Rodrigo Ochoa</h1>
 
 <p align="center">
-  Ingeniero Industrial en transición hacia Data Analytics 📊 | Amante de los datos | Conector entre operaciones y eficiencia 🧠
+  Industrial Engineer transitioning to Data Analytics 📊 | Data Enthusiast | Bridging Operations and Efficiency 🧠
 </p>
 
 ---
 
-### 💼 Sobre mí
+### 💼 About Me
 
-Soy un profesional con formación en Ingeniería Industrial y Administración, actualmente haciendo una transición hacia el análisis y la ciencia de datos. Cuento con más de 5 años de experiencia liderando equipos y optimizando procesos operativos en el sector hotelero.
+I'm a professional with a background in Industrial Engineering and Management, currently transitioning into data analysis and data science. I have over 5 years of experience leading teams and optimizing operational processes in the hospitality sector.
 
-En el último año, completé una certificación en Ciencia de Datos en **TripleTen**, desarrollando habilidades en **Python**, **SQL**, **análisis de negocio** y **visualización de datos**.
+In the past year, I completed a Data Science certification at **TripleTen**, developing skills in **Python**, **SQL**, **business analysis**, and **data visualization**.
 
-Me apasiona convertir datos en decisiones estratégicas, trabajar en equipo y utilizar la tecnología como puente para mejorar la eficiencia organizacional. Estoy siempre en aprendizaje continuo y listo para nuevos desafíos.
-
----
-
-### 📊 Habilidades técnicas
-
-- Lenguajes: `Python`, `SQL`
-- Herramientas: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Jupyter`, `Tableau`, `Excel avanzado`
-- Áreas: Análisis exploratorio, visualización de datos, storytelling con datos, análisis de negocio
+I'm passionate about transforming data into strategic decisions, working collaboratively in teams, and leveraging technology to enhance organizational efficiency. I'm always committed to continuous learning and ready for new challenges.
 
 ---
 
-### 📂 Proyectos destacados
+### 📊 Technical Skills
 
-🔹 [Proyecto_SP7](https://github.com/ro-o-debug/Proyecto_SP7)  
-_Visualización de rentabilidad y segmentación de datos clave para la toma de decisiones._
+- Languages: `Python`, `SQL`
+- Tools: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Jupyter`, `Tableau`, `Advanced Excel`
+- Areas: Exploratory data analysis, data visualization, data storytelling, business analysis
 
-🔹 (Aquí puedes agregar más proyectos cuando los publiques)
+---
+
+### 📂 Featured Projects
+
+🔹 [Proyecto_SP7](https://github.com/ro-o-debug/Proyecto_SP7)
+_Visualization of profitability and key data segmentation for decision-making._
+
+🔹 (You can add more projects here when you publish them)
 
 ---
 
@@ -39,7 +39,7 @@ _Visualización de rentabilidad y segmentación de datos clave para la toma de d
 
 ---
 
-### 📫 Conéctate conmigo
+### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-ochoa95/)
 - Email: rodrigochoa951@gmail.com
