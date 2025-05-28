@@ -1,32 +1,35 @@
-<h1 align="center">¡Hola! 👋 Soy Rodrigo</h1>
+<h1 align="center">¡Hola! 👋 Soy Rodrigo Ochoa</h1>
 
 <p align="center">
-  QA Engineer | Apasionado por la automatización | Explorador de bugs con actitud 🔍🚀
+  Ingeniero Industrial en transición hacia Data Analytics 📊 | Amante de los datos | Conector entre operaciones y eficiencia 🧠
 </p>
 
 ---
 
-### 💼 Acerca de mí
+### 💼 Sobre mí
 
-Soy un **QA Engineer** enfocado en mejorar la calidad de software mediante estrategias efectivas de pruebas manuales y automatizadas. Me encanta aprender nuevas tecnologías y trabajar en proyectos donde la calidad y la experiencia del usuario son prioridad.
+Soy un profesional con formación en Ingeniería Industrial y Administración, actualmente haciendo una transición hacia el análisis y la ciencia de datos. Cuento con más de 5 años de experiencia liderando equipos y optimizando procesos operativos en el sector hotelero.
 
----
+En el último año, completé una certificación en Ciencia de Datos en **TripleTen**, desarrollando habilidades en **Python**, **SQL**, **análisis de negocio** y **visualización de datos**.
 
-### 🧰 Tecnologías y herramientas
-
-- ⚙️ Lenguajes: `Java`, `JavaScript`, `Python`
-- 🧪 Testing: `Selenium`, `JUnit`, `Postman`, `JMeter`
-- 💻 Herramientas: `Git`, `GitHub`, `Jira`, `X-Ray`
-- 📚 En constante aprendizaje: `Cypress`, `Playwright`
+Me apasiona convertir datos en decisiones estratégicas, trabajar en equipo y utilizar la tecnología como puente para mejorar la eficiencia organizacional. Estoy siempre en aprendizaje continuo y listo para nuevos desafíos.
 
 ---
 
-### 🧪 Proyectos destacados
+### 📊 Habilidades técnicas
+
+- Lenguajes: `Python`, `SQL`
+- Herramientas: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Jupyter`, `Tableau`, `Excel avanzado`
+- Áreas: Análisis exploratorio, visualización de datos, storytelling con datos, análisis de negocio
+
+---
+
+### 📂 Proyectos destacados
 
 🔹 [Proyecto_SP7](https://github.com/ro-o-debug/Proyecto_SP7)  
-_Ejercicio de testing funcional y automatizado para una aplicación web ficticia._
+_Visualización de rentabilidad y segmentación de datos clave para la toma de decisiones._
 
-🔹 (Agrega aquí más proyectos a medida que los vayas subiendo)
+🔹 (Aquí puedes agregar más proyectos cuando los publiques)
 
 ---
 
@@ -38,10 +41,8 @@ _Ejercicio de testing funcional y automatizado para una aplicación web ficticia
 
 ### 📫 Conéctate conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Email: tuemail@ejemplo.com
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-ochoa95/)
+- Email: rodrigochoa951@gmail.com
 
 ---
-
-> ⚡ *Actualizo este perfil constantemente para mostrar mi crecimiento como profesional QA.*
 
